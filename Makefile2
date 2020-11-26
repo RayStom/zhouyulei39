@@ -1,0 +1,4 @@
+tCal:paixu0.c paixutest.c
+	        gcc paixu0.c paixutest.c -o paixutest
+clean:
+	        rm testlistg
